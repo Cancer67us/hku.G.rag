@@ -1,0 +1,16 @@
+__pycache__
+v2/LLaMA-Factory-main/*
+v2/RAG-Retrieval/*
+v2/data
+v2/mongodb-7.0.20
+v2/log/*
+v2/models/*
+v2/venv/*
+
+text2vec-base-multilingual/*
+bge-reranker-large/*
+data/*
+
+embedding_evaluation/gte-Qwen2-1.5B-instruct/*
+embedding_evaluation/env/*
+embedding_evaluation/data/*
